@@ -1,0 +1,533 @@
+{
+  "common": {
+    "continue": "Continue",
+    "getStarted": "Get Started",
+    "purchase": "Purchase",
+    "shareToFriends": "Share to Friends",
+    "notNow": "Not Now",
+    "addMeals": "Add Meals",
+    "bestPerformance": "Best Performance",
+    "worstPerformance":"Worst Performance",
+    "search":"Search",
+    "share":"Share to Friend",
+    "save": "Save",
+    "sunday": "S",
+    "monday": "M",
+    "tuesday": "T",
+    "wednesday": "W",
+    "thursday": "T",
+    "friday": "F",
+    "saturday": "S",
+    "Text3":"Monday",
+    "Text4":"Tuesday",
+    "Text5":"Wednesday",
+    "Text6":"Thursday",
+    "Text7":"Friday",
+    "Text8":"Saturday",
+    "Text9":"Sunday"
+  },
+
+  "ActivityAddView": {
+    "Text1": "My Activity Today",
+    "Text2": "Name",
+    "Text3": "Type",
+    "Text4": "Activity Time",
+    "Text5": "Time",
+    "Text6": "Volume",
+    "Text7": "Low",
+    "Text8": "Medium",
+    "Text9": "High",
+    "Text10": "Add Activity",
+    "Text11": "Please enter minutes!",
+    "Text12": "mins",
+    "Text13": "Please enter time in minutes",
+    "Text14": "Maximum 150 minutes"
+
+  },
+
+ "Welcome":{
+    "Text1": "Scale up to",
+    "Text2": "Healthy Lifestyle",
+    "Text3": "Your recipe for Better Life",
+    "Text4": "Already have an account",
+    "Text5": "Sign in"
+ },
+
+ "phoneNumberView": {
+    "Text1": "Let’s start with your",
+    "Text2": "mobile number",
+    "Text3": "Please enter valid phone number"
+ },
+
+ "SMSCodeView":{
+    "Text1": "We sent you a code to",
+    "Text2": "verify your number",
+    "Text3": "Didn’t receive?",
+    "Text4": "Resending in"
+ },
+
+ "EmailView":{
+    "Text1": "First Name",
+    "Text2": "Last Name",
+    "Text3": "Email Address",
+    "Text4": "Please enter first name!",
+    "Text5": "Please enter last name!",
+    "Text6": "Please enter valid email address!",
+    "Text7": "Add personal",
+    "Text8": "information?"
+ },
+
+ "PasswordView": {
+    "Text1": "Put your code",
+    "Text2": "Please enter purchased passcode!",
+    "Text3": "Didnt recieved a code"
+ },
+
+ "PaymentView":{
+    "Text1": "Go premium",
+    "Text2": "Get unlimited access",
+    "Text3": "When you subscribe,",
+    "Text4": "you’ll gain instant unlimited access",
+    "Text5": "year",
+    "Text6": "Year Subscription",
+    "Text7": "Recuring billing, cancel anytime",
+    "Text8": "An exclusive offer worth considering on launch: Smart weight and app supports a discounted price of $20 per month for 12 months instead of the full price of $49.9 per month."
+ },
+
+ "ApprovedAccountView":{
+    "Text1": "Congratulations",
+    "Text2": "We are pleased to inform you",
+    "Text3": "that you have",
+    "Text4": "permission for",
+    "Text5": "Feel free to connect them to your",
+    "Text6": "weight with the code and have",
+    "Text7": "permission to access their own",
+    "Text8": "members",
+    "Text9": "now",
+    "Text10": "active"
+ },
+
+ "SyncWeightView":{
+    "Text1": "Sync your Weight"
+ },
+
+ "SeeWeightView":{
+    "Text1": "First Time",
+    "Text2": "Weight",
+    "Text3": "its the first time you weight"
+ },
+
+ "HeightView":{
+    "Text1": "Meters",
+    "Text2": "Height",
+    "Text3": "It's the first time you weight"
+ },
+
+ "GenderView": {
+    "Text1": "What’s your gender?",
+    "Text2": "Male",
+    "Text3": "Female",
+    "Text4": "To give you a better experience we",
+    "Text5": "need to know your gender"
+ },
+
+ "AgeView":{
+    "Text1": "How old are you?",
+    "Text2": "Sets a reminder to alert you at what point you should go to sleep."
+ },
+
+ "FitnessView":{
+    "Text1": "What’s your current",
+    "Text2": "fitness level?",
+    "Text3": "Not Fit",
+    "Text4": "Super Fit",
+    "Text5": "Moderate Intentsity",
+    "Text6": "I always work out regulary two",
+    "Text7": "or three times a week."
+ },
+
+ "GoalView": {
+    "Text1":"Let us know how we",
+    "Text2": "can help you",
+    "Text3": "You can always change this later",
+    "Text4": "Weight Loss",
+    "Text5": "Better water disciple",
+    "Text6": "Track my nutrition",
+    "Text7": "Improve overall fitness"
+ },
+
+ "PhotoView":{
+    "Text1": "Profile Picture",
+    "Text2": "You can add your own photo as",
+    "Text3": "Add Custom Photo"
+ },
+
+ "SleepReminderView":{
+    "Text1":"What time would you like to sleep?",
+    "Text2": "Sets a reminder to alert you at what point you should go to sleep.",
+    "Text3": "Add alarm sound"
+ },
+
+ "SuccessView":{
+    "Text1":"You are ready to go!",
+    "Text2": "Thanks for taking this time to",
+    "Text3": "create an account with us. Now this is",
+    "Text4":"the fun part. Let's explore the app"
+ },
+
+ "TutorialView":{
+    "Text1": "When you log your meals,",
+    "Text2": "your calorie counter will",
+    "Text3": "appear here",
+    "Text4": "Alright Got It"
+ },
+
+ "NotificationView":{
+    "Text1": "Do you want to turn",
+    "Text2": "on notification?",
+    "Text3": "New weekly healthy reminder",
+    "Text4": "Motivational reminder",
+    "Text5": "Personalised program"
+ },
+
+ "HomeView":{
+    "Text1": "Water",
+    "Text2": "Nutrition",
+    "Text3": "Weight",
+    "Text4": "Steps",
+    "Text5": "Sport",
+    "Text6": "Today",
+
+    "Text7": "Nutritionists - TIPS",
+    "Text8": "Personal Trainers - Training programs",
+    "Text9": "WAKE UP!",
+    "Text10": "wake up others Friends",
+
+    "Text11": "Good Job!",
+    "Text12": "of Daily goals",
+    "Text13": "Steps",
+    "Text14": "Daily Goal",
+
+    "Text15":"No more meal today, alright!",
+    "Text16":"cal",
+    "Text17":"4/4 dinners",
+    "Text18":"dinners",
+
+
+    "Text19":"Drink non-stop",
+    "Text20":"Glass",
+    "Text21":"Full capacity",
+    "Text22":"Glasses",
+    "Text23":"Daily Goal",
+
+    "Text24":"Good Job!",
+    "Text25":"time to active",
+    "Text26":"Cal Burned",
+    "Text27":"Daily Goal",
+
+    "Text28":"Great Job! Superb!",
+    "Text29":"is your Goal",
+    "Text30":"Cal Burned",
+    "Text31":"Daily Goal",
+
+    "Text32": "read more",
+    "Text33": "Health",
+    "Text34": "read time",
+
+    "Text35": "warning",
+    "Text36": "on track",
+    "Text37": "6 days ago",
+    "Text38": "On track",
+    "Text39": "Inserted"
+  },
+
+  "ActivityFrontView":{
+    "Text1":"Your activity",
+    "Text2": "Hours",
+    "Text3": "active",
+    "Text4":"Daily Goal",
+    "Text5": "You haven’t been active much",
+    "Text6":"Set Reminder",
+    "Text7":"Insight",
+    "Text8":"Add Activity",
+    "Text9": "today",
+    "Text10": "Best",
+    "Text11": "Worst",
+    "Text12": "Performance"
+  },
+
+  "ActivityReminderView":{
+    "Text1":"Meal Reminder",
+    "Text2":"Choose a day to get a notification to remember to eat",
+    "Text3":"Monday",
+    "Text4":"Tuesday",
+    "Text5":"Wednesday",
+    "Text6":"Thursday",
+    "Text7":"Friday",
+    "Text8":"Saturday",
+    "Text9":"Sunday",
+    "Text10":"Save"
+  },
+
+  "ActivityShareView":{
+    "Text1": "Good Stuff!",
+    "Text2":"time to active",
+    "Text3":"Cal Burned",
+    "Text4":"Daily Goal"
+  },
+
+  "ChooseMealView":{
+    "Text1":"Choose Food",
+    "Text2":"You can choose to fill out the meal by adding items or by adding prepared meals",
+    "Text3":"Individual Food Products",
+    "Text4":"Enter",
+    "Text5":"Food Portions",
+    "Text6":"Enter"
+  },
+
+  "FeedBackView":{
+    "Text1": "How was your overall experience?",
+    "Text2": "It will help us to serve you better",
+    "Text3": "Not So Good",
+    "Text4": "Good",
+    "Text5": "What is Wrong",
+    "Text6": "Slow loading",
+    "Text7": "Customer service",
+    "Text8": "App crash",
+    "Text9": "Not responsive",
+    "Text10": "Not functional",
+    "Text11": "Notes",
+    "Text12": "How can we do better?",
+    "Text13": "Submit Feedback",
+    "Text14": "Very Bad",
+    "Text15": "Bad",
+    "Text16": "Very Good",
+    "Text17": "Navigaton"
+  },
+
+  "FriendsView":{
+    "Text1": "My Friends",
+    "Text2": "Wake up your friends",
+    "Text3": "All Contacts",
+    "Text4": "Wake Up"
+  },
+
+  "InviteFriendView":{
+    "Text1": "Refer friends and you’ll each get $5",
+    "Text2": "Each time a friend signs up through your refereral link and open account we’ll reward you both $5",
+    "Text3": "https://scale-app.com/affiliates?token=",
+    "Text4": "Invites sent",
+    "Text5": "Accepted",
+    "Text6": "Earning",
+    "Text7": "Invite Now",
+    "Text8": "invites",
+    "Text9": "invite"
+  },
+
+  "ModalView":{
+    "Text1": "cal",
+    "Text2": "Inside",
+    "Text3": "Calories",
+    "Text4": "Fat",
+    "Text5": "Carb",
+    "Text6": "Protein"
+  },
+
+  "NutritionFrontView":{
+    "Text1":"You have consumed",
+    "Text2":"Cal",
+    "Text3":"Carb",
+    "Text4":"Protein",
+    "Text5":"Fat",
+    "Text6":"Breakfast",
+    "Text7":"Lunch",
+    "Text8":"Dinner",
+    "Text9": "today",
+    "Text10": "Add Meals"
+  },
+
+  "NutritionMealDetailView":{
+    "Text1": "Menu Morning",
+    "Text2": "Enter what you ate at the meal",
+    "Text3": "Name food",
+    "Text4": "Add",
+    "Text5": "cal"
+  },
+
+  "NutritionMealsView":{
+    "Text1":"Put food in the menu",
+    "Text2": "cal",
+    "Text3": "Add Meal",
+    "Text4": "Morning",
+    "Text5": "Lunch",
+    "Text6": "Dinner",
+    "Text7": "Add Food",
+    "Text8": "Add Reminder"
+ },
+
+ "NutritionReminderView":{
+    "Text1":"Meal Reminder",
+    "Text2":"Choose a day to get a notification to remember to eat",
+    "Text3":"Monday",
+    "Text4":"Tuesday",
+    "Text5":"Wednesday",
+    "Text6":"Thursday",
+    "Text7":"Friday",
+    "Text8":"Saturday",
+    "Text9":"Sunday",
+    "Text10":"Save"
+  },
+
+  "NutritionShareView":{
+    "Text1":"Today your colmpted all your menu",
+    "Text2":"Cal",
+    "Text3":"4/4 dinners",
+    "Text4":"dinners",
+    "Text5":"Daily Goal"
+  },
+
+  "ReceipesFoodMenuView":{
+    "Text1":"Prepared dishes",
+    "Text2":"Choose what you want to prepare",
+    "Text3":"Dose ready"
+ },
+
+ "SettingView":{
+    "Text1":"Invite Friend",
+    "Text2":"Push Notification",
+    "Text3":"Subscribe email",
+    "Text4":"Give Feedback",
+    "Text5":"Help and Support",
+    "Text6":"Connect Device",
+    "Text7":"Active",
+    "Text8":"About Us",
+    "Text9":"LogOut",
+    "Text10": "Inactive",
+    "Text11": "On",
+    "Text12": "Off"
+  },
+
+  "StepsFrontView":{
+    "Text1":"You have walked",
+    "Text2":"today",
+    "Text3":"of daily goal",
+    "Text4":"Cal Burned",
+    "Text5": "Daily Goal",
+    "Text6":"Active",
+    "Text7":"Statistics",
+    "Text8":"Insight",
+    "Text9": "steps",
+    "Text10": "cal"
+  },
+
+  "StepsReminderView":{
+    "Text1":"Steps Reminder",
+    "Text2":"Choose a day to get a notification to remember to eat",
+    "Text3":"Monday",
+    "Text4":"Tuesday",
+    "Text5":"Wednesday",
+    "Text6":"Thursday",
+    "Text7":"Friday",
+    "Text8":"Saturday",
+    "Text9":"Sunday",
+    "Text10":"Save"
+  },
+
+  "StepsShareView":{
+    "Text1":"Success!",
+    "Text2": "of daily goals",
+    "Text3":"Steps",
+    "Text4":"Daily Goal"
+  },
+
+  "UserProfileView" :{
+    "Text1":"User Profile",
+    "Text2":"Basic Member",
+    "Text3":"height",
+    "Text4":"Weight",
+    "Text5":"BMI",
+    "Text6":"MBR",
+    "Text7":"My Goals",
+    "Text8":"Good Job! You almost reach your goal, keep your healthy lifestyle.",
+    "Text9":"Nutrition",
+    "Text10":"Steps",
+    "Text11":"Water",
+    "Text12": "cal",
+    "Text13": "glasses"
+  },
+
+ "WaterFrontView":{
+    "Text1":"You have drank",
+    "Text2": "glasses",
+    "Text3":"Water Drank",
+    "Text4":"Daily Goal",
+    "Text5": "You haven’t drank much",
+    "Text6":"Set Reminder",
+    "Text7":"Insight",
+    "Text8": "today"
+ },
+
+ "WaterReminderView":{
+    "Text1":"Water Reminder",
+    "Text2":"Choose a day to get a notification to remember to drink",
+    "Text3":"Monday",
+    "Text4":"Tuesday",
+    "Text5":"Wednesday",
+    "Text6":"Thursday",
+    "Text7":"Friday",
+    "Text8":"Saturday",
+    "Text9":"Sunday",
+    "Text10":"Save"
+ },
+
+ "WaterShareView":{
+    "Text1":"Glass",
+    "Text2": "Full capacity",
+    "Text3": "Glass",
+    "Text4": "Daily Goal",
+    "Text5": "Drink non-stop"
+ },
+
+ "WeightAddView":{
+    "Text1":"Time to Weight",
+    "Text2":"Enter what you ate at the meal",
+    "Text3":"Add Reminder",
+    "Text4":"Add Weight",
+    "Text5":"History",
+    "Text6":"goal",
+    "Text7": "remove"
+ },
+
+ "WeightFrontView":{
+    "Text1":"Progress",
+    "Text2":"Start",
+    "Text3":"Target",
+    "Text4":"Loss",
+    "Text5":"Good job! You have a",
+    "Text6":"weight loss",
+    "Text7":"Journal",
+    "Text8":"Update Weight",
+    "Text9": "compare to last month"
+  },
+
+ "WeightReminderView":{
+    "Text1":"Weight Reminder",
+    "Text2":"Choose a day to get a notification to remember to weight",
+    "Text3":"Monday",
+    "Text4":"Tuesday",
+    "Text5":"Wednesday",
+    "Text6":"Thursday",
+    "Text7":"Friday",
+    "Text8":"Saturday",
+    "Text9":"Sunday",
+    "Text10":"Save"
+ },
+
+ "WeightShareView":{
+    "Text1":"marvelous!!!",
+    "Text2":"its your Goal!",
+    "Text3":"Cal Burned",
+    "Text4":"Daily Goal"
+ }
+
+}

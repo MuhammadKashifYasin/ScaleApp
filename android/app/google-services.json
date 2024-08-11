@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409485515812",
+    "firebase_url": "https://scaleapp-91f6d.firebaseio.com",
+    "project_id": "scaleapp-91f6d",
+    "storage_bucket": "scaleapp-91f6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409485515812:android:471bfb56ae5ffd5760ccb1",
+        "android_client_info": {
+          "package_name": "com.scaleapp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409485515812-t0rnqo96jq1b0nu24v851s226h0bto8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXDypiix6S8n2mLmLOBdVWrFag3OlJYIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409485515812-t0rnqo96jq1b0nu24v851s226h0bto8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

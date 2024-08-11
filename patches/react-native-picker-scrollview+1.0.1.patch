@@ -1,0 +1,16 @@
+diff --git a/node_modules/react-native-picker-scrollview/index.js b/node_modules/react-native-picker-scrollview/index.js
+index 8b47f9e..141f68c 100644
+--- a/node_modules/react-native-picker-scrollview/index.js
++++ b/node_modules/react-native-picker-scrollview/index.js
+@@ -8,9 +8,10 @@ import ReactNative, {
+     ScrollView,
+     Dimensions,
+     Platform,
+-    ViewPropTypes
++    // ViewPropTypes
+ } from 'react-native';
+ import PropTypes from 'prop-types';
++import { ViewPropTypes } from 'deprecated-react-native-prop-types'
+ 
+ const deviceWidth = Dimensions.get('window').width;
+ const deviceHeight = Dimensions.get('window').height;

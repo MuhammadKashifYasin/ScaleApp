@@ -1,0 +1,36 @@
+diff --git a/node_modules/react-native-search-box/index.js b/node_modules/react-native-search-box/index.js
+index 5e387c8..fab490a 100644
+--- a/node_modules/react-native-search-box/index.js
++++ b/node_modules/react-native-search-box/index.js
+@@ -10,8 +10,9 @@ import {
+   Keyboard,
+   Image,
+   View,
+-  ViewPropTypes
++  // ViewPropTypes
+ } from 'react-native';
++import { ViewPropTypes } from 'deprecated-react-native-prop-types'
+ 
+ const AnimatedTextInput = Animated.createAnimatedComponent(TextInput);
+ 
+@@ -528,17 +529,17 @@ Search.propTypes = {
+     PropTypes.number,
+     PropTypes.object,
+     ViewPropTypes.style,
+-    Text.propTypes.style
++    PropTypes.string
+   ]),
+   direction: PropTypes.oneOf(['ltr', 'rtl']),
+   cancelButtonStyle: PropTypes.oneOfType([
+     PropTypes.number,
+     PropTypes.object,
+     ViewPropTypes.style,
+-    Text.propTypes.style,
++    PropTypes.string,
+   ]),
+   onLayout: PropTypes.func,
+-  cancelButtonTextStyle: Text.propTypes.style,
++  cancelButtonTextStyle: PropTypes.string,
+ 
+   cancelButtonViewStyle: PropTypes.oneOfType([PropTypes.object, ViewPropTypes.style]),
+ 
